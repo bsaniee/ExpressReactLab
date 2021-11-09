@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Address Book",
+      "live": "https://seir-project-2.herokuapp.com/",
+      "git": "https://github.com/bsaniee/seir_penguin_project_1",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Trivia Game",
+      "live": "https://cranky-chandrasekhar-b152f6.netlify.app/",
+      "git": "https://github.com/bsaniee/seir_penguin_project_1",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
   ]
